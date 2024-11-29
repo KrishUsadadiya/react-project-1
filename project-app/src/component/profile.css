@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.userprofile{
+    width: 400px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: rgba(227, 240, 46, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(59, 240, 46, 0.2) -15px 15px, rgba(140, 46, 240, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    margin-top: 5%;
+}
+.component{
+    margin-top: 40px;
+}
+.userprofile img{
+    border-radius: 50%;
+}
+.component{
+   line-height: 30px;
+}
+.App{
+    display: flex;
+}
